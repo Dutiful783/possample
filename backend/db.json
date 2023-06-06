@@ -1,0 +1,47 @@
+{
+    "products": [
+        {
+            "id": 123,
+            "name": "Iphone 5se",
+            "price": "40000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwFdRZWf4mTk1-SuaC7uGdgGAeG4Wh1hGX_A&usqp=CAU"
+        },
+        {
+            "id": 131,
+            "name": "Iphone 7",
+            "price": "70000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLr6nl5PlHb-hmCwz5bE_mrY1wEUCuag3pWQ&usqp=CAU"
+        },
+        {
+            "id": 142,
+            "name": "Dell monitor",
+            "price": "75000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh05kpkBRDAjoSauVYwRQp1qqPXaXojWs6gw&usqp=CAU"
+        },
+        {
+            "id": 153,
+            "name": "Laptop",
+            "price": "100000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPaRTvTs1KZAPUnb19hVjF88ihdcJli5kVng&usqp=CAU"
+        },
+        {
+            "id": 164,
+            "name": "PS3 Fat",
+            "price": "60000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBKtYZXQbgVirGMbYtqjaU07u8CODWx09Qhw&usqp=CAU"
+        },
+        {
+            "id": 175,
+            "name": "PS5",
+            "price": "400000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDDDUM9Y3bOLxJrBs3i8mRubsniT_QEHkb-Q&usqp=CAU"
+        },
+        {
+            "id": 186,
+            "name": "Desktop",
+            "price": "400000",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbOleBsjrRP-ozUipYOs7gcnxppsFigQRyBA&usqp=CAU"
+        }
+
+    ]
+}
